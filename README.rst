@@ -58,15 +58,3 @@ The books I've read are:
 
 In general, while books will help you understand operating systems a bit, they won't really help you develop anything. I've other books that should arrive soon, I hope they'll turn out better.
 
-Build
-#####
-
-Note: This repository, is using submodules, don't forget the --recursive option
-when you check it out.
-
-Build procedure is described on the Wiki: https://github.com/wichtounet/thor-os/wiki/Build
-
-License
-#######
-
-This project is distributed under the MIT License. Read `LICENSE` for details.
